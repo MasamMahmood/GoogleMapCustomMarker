@@ -1,0 +1,6 @@
+framework module Pods_GoogleMapCustomMarker_GoogleMapCustomMarkerUITests {
+  umbrella header "Pods-GoogleMapCustomMarker-GoogleMapCustomMarkerUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
